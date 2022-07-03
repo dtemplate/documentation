@@ -1,3 +1,3 @@
-# Hello Template Docs
+# Template Docs
 
-Here documentation
+Coming soon
