@@ -1,2 +1,3 @@
-# documentation
-All documentation from Dev Template
+# Documentation
+
+See all documentation here: [https://dtemplate.org/docs](https://dtemplate.org/docs)
