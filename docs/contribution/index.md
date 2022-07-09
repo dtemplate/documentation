@@ -14,7 +14,7 @@ Our system is divided into several projects that are all in our [github organiza
 
 Here are some things you can contribute to:
 
-- [Publish a template](/docs/templates/publish)
+- [Publish a template](/docs/templates)
 - [Milestones](#milestones)
 
 ## Milestones
