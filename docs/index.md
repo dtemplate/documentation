@@ -8,4 +8,4 @@ here begins a new point in the open source world, with this documentation you wi
 
 - [Rust core documentation](/docs/core)
 
-- [Template documentation](/docs/template)
+- [Template documentation](/docs/templates)
