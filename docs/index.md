@@ -6,6 +6,8 @@ here begins a new point in the open source world, with this documentation you wi
 
 - [CLI documentation](/docs/cli)
 
-- [Rust core documentation](/docs/core)
+- [Contribution documentation](/docs/contribution)
 
 - [Template documentation](/docs/templates)
+
+- [Rust core documentation](/docs/core)
